@@ -1,0 +1,8 @@
+Package: eggCountsExtra
+Version: 0.2
+Depends: eggCounts (>= 2.0)
+Imports: testthat
+License: GPL (>= 3)
+MD5sum: 42ba9746f88026c1626be3b3b92aca46
+NeedsCompilation: no
+
